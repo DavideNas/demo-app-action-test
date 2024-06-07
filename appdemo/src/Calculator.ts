@@ -1,13 +1,11 @@
 export class Calculator {
+    constructor () {}
 
-    constructor(){}
-
-    addition(a:number,b:number) : number{
+    addition(a:number, b:number): number {
         return a+b
     }
 
-    substract(a:number,b:number) : number{
+    subtract(a:number, b:number): number {
         return a-b
     }
 }
-

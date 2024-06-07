@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testExecutions version="1">
+  <file path="C:\Users\dnase\Desktop\appdemo\tests\Calculator.Test.ts">
+    <testCase name="Addition should return &apos;6&apos; for 5+1" duration="7"/>
+  </file>
+</testExecutions>
